@@ -1,0 +1,15 @@
+G:\Мой диск\GB\C#\HomeWork4\task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+G:\Мой диск\GB\C#\HomeWork4\task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\GB\C#\HomeWork4\task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+G:\Мой диск\GB\C#\HomeWork4\task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+G:\Мой диск\GB\C#\HomeWork4\task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+G:\Мой диск\GB\C#\HomeWork4\task25\bin\Debug\net6.0\task25.exe
+G:\Мой диск\GB\C#\HomeWork4\task25\bin\Debug\net6.0\task25.deps.json
+G:\Мой диск\GB\C#\HomeWork4\task25\bin\Debug\net6.0\task25.runtimeconfig.json
+G:\Мой диск\GB\C#\HomeWork4\task25\bin\Debug\net6.0\task25.dll
+G:\Мой диск\GB\C#\HomeWork4\task25\bin\Debug\net6.0\task25.pdb
+G:\Мой диск\GB\C#\HomeWork4\task25\obj\Debug\net6.0\task25.dll
+G:\Мой диск\GB\C#\HomeWork4\task25\obj\Debug\net6.0\refint\task25.dll
+G:\Мой диск\GB\C#\HomeWork4\task25\obj\Debug\net6.0\task25.pdb
+G:\Мой диск\GB\C#\HomeWork4\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+G:\Мой диск\GB\C#\HomeWork4\task25\obj\Debug\net6.0\ref\task25.dll
